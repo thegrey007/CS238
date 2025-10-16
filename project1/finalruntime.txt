@@ -1,0 +1,9 @@
+Time taken: 0.25 seconds
+Final score: -3824.9428751557753
+Wrote graph to small.gph
+Time taken: 11.07 seconds
+Final score: -98205.58271902682
+Wrote graph to medium.gph
+Time taken: 1145.86 seconds
+Final score: -417051.9748373652
+Wrote graph to large.gph
